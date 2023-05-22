@@ -7,7 +7,7 @@ To run sript as kubectl plugin, follow steps:
 
 To run plugin use
 
-kubectl kubeplugin [resource] -n [namespaces]
+kubectl kubeplugin [resource] [namespaces]
 
 Example: kubectl kubeplugin api-resources -n default
 
